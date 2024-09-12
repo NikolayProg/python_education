@@ -1,1 +1,1 @@
-App for setteng password for PDF-files
+App for setteng password of PDF-files
